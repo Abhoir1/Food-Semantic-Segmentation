@@ -33,7 +33,7 @@ This repository contains the final project done for the course ENPM673 Perceptio
 |Dataset|[here](https://research.larc.smu.edu.sg/downloads/datarepo/FoodSeg103.zip)|
 |Password|LARCdataset9947|
 
-
+## Custom Model
 ## Run Code
 
 Download the zip folder ```custom_model.zip``` and navigate to the ```custom_model``` folder.
