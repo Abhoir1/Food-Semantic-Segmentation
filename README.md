@@ -58,20 +58,8 @@ The segmented output will be displayed as a disparity map.
 
 After completion of the training loop epochs, the checkpoint file ```checkpoints.pth``` will be saved in the present directory.
 
-## Dependencies used
 
-|Modules|
-|---|
-|Python|3|
-|Time|
-|Numpy|
-|Matplotlib|
-|tqdm|
-|tensorflow|
-|os|
-|torch|
-|CUDA|
-
+## Transfer Learning
 
 ## Links
 
